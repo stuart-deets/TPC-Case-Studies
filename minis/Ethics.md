@@ -1,10 +1,3 @@
----
-aliases: []
-date created: Tuesday, September 9th 2025, 2:57:21 pm
-date modified: Wednesday, October 7th 2026, 1:25:25 pm
-tags: [Problem_solving_activity, WRIT_3562W]
----
-
 # Instructions
 
 ### The Situation Unfolds
