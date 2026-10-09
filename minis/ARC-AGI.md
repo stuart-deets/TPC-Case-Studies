@@ -9,8 +9,6 @@ tags: [Problem_solving_activity]
 
 This is a puzzle from ARC-AGI-3 — a benchmark designed to measure the gap between human and AI intelligence. You are the baseline. AI systems are evaluated against how efficiently you solve these tasks.
 
-![[Screenshot 2026-04-01 at 3.54.15 PM.png]]
-
 Link: <https://arcprize.org/tasks/ls20> 
 
 ARC-AGI-3 challenges agents to explore novel environments, acquire goals on the fly, build adaptable world models, and learn continuously — without relying on natural language instructions.
