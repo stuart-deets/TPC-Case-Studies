@@ -1,10 +1,3 @@
----
-aliases: []
-date created: Wednesday, September 17th 2025, 1:04:36 pm
-date modified: Friday, October 9th 2026, 10:37:07 am
-tags: [plain_language, Problem_solving_activity]
----
-
 One of the key tensions in Plain Language is between "simplifying" what is complex language, and maintaining the original meaning. While we discussed in class what I take to be the goal of the Plain Language movement--making communications that work for all audiences, but thinking especially of non-expert users and citizens--traditional definitions and understandings might take a different tack.
 
 > [!Scenario]
