@@ -1,10 +1,3 @@
----
-aliases: []
-date created: Wednesday, April 1st 2026, 2:41:39 pm
-date modified: Wednesday, October 7th 2026, 11:35:39 am
-tags: [Problem_solving_activity]
----
-
 # What You're Doing (And Why)
 
 This is a puzzle from ARC-AGI-3 — a benchmark designed to measure the gap between human and AI intelligence. You are the baseline. AI systems are evaluated against how efficiently you solve these tasks.
