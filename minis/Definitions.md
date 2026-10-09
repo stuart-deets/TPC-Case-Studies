@@ -1,10 +1,3 @@
----
-aliases: []
-date created: Wednesday, September 3rd 2025, 6:26:51 pm
-date modified: Friday, October 9th 2026, 10:37:17 am
-tags: [Problem_solving_activity, WRIT_3562W]
----
-
 # What Makes Technical Communication "Technical"?
 
 Read the following two perspectives on what makes technical communication distinctive, based on this week's readings:
