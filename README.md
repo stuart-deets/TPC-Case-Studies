@@ -8,3 +8,4 @@ Use the pull request function to add your own scenarios. Effective scenarios sho
 2. Relate to class material in TPC
 3. Relate to core learning outcomes
 4. Be designed to be completed in 15-20 minutes in class, on paper, with no additional information besides what's included in the scenario
+5. Be written in [Markdown]([url](https://www.markdownguide.org/)). 
