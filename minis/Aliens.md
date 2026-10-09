@@ -1,10 +1,3 @@
----
-aliases: []
-date created: Monday, September 29th 2025, 9:12:48 am
-date modified: Friday, October 9th 2026, 10:37:10 am
-tags: [Problem_solving_activity, Spring_2026, Week_6, WRIT_3562W]
----
-
 # Background
 
 In 2029, humanity detected and successfully established communication with an extraterrestrial intelligence through radio signals. The entity—temporarily designated "Partner"—appears to be carbon-based, lives on a distant planet, and has developed advanced spaceflight and scientific capabilities. Over the past six months, scientists have established a basic mathematical and scientific vocabulary with Partner using prime numbers, chemical formulas, and physical constants.
