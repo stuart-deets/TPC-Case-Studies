@@ -1,10 +1,3 @@
----
-aliases: []
-date created: Monday, September 8th 2025, 2:57:49 pm
-date modified: Friday, October 9th 2026, 10:37:13 am
-tags: [Fall_2025, Problem_solving_activity, WRIT_3562W]
----
-
 Saint City Research Partners' latest client is Queens Racing, a Formula 1 team. Remembering our discussion from last week of rhetorical principles, choose two that you believe will be most important for this client to consider (ethos, pathos, logos, kairos, topos) and offer a justification for why those rhetorical principles should be considered most important to address in any response. Offer brief and concise advice on how to proceed.
 
 Here is the situation:
